@@ -1,0 +1,28 @@
+@function px2rem($px){
+    $rem: 32px;
+    @return ($px / $rem) +rem;
+}
+
+$bgColor:#00b2f1;
+
+input::-webkit-input-placeholder{
+    color: #ccc;
+}
+
+input::-moz-placeholder{
+    color: #ccc;
+}
+
+input:-ms-input-placeholder{
+    color: #ccc;
+}
+
+.center{width: 95%;margin: 0 auto}
+
+.clearFix::after{display: block;content: '';clear: both;}
+
+.flowLeft{float: left;}
+
+.flowRight{float: right;}
+
+.display-none{display: none;}
