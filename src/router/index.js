@@ -3,7 +3,6 @@ import Router from 'vue-router'
 import Home from '@/view/Home'
 import Details from '@/view/Details'
 import City from '@/view/City'
-import Cube from '@/view/cube'
 
 Vue.use(Router)
 
@@ -34,14 +33,6 @@ let routes=[
     component: City,
     meta: {
       title: '城市'
-    }
-  },
-  {
-    path: '/cube',
-    name:'Cube',
-    component: Cube,
-    meta: {
-      title: 'Cube'
     }
   }
 ]
