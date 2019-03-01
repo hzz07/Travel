@@ -3,3 +3,9 @@
 <img width="281.25" height="500.25" src="https://github.com/JoyChen626/vue-travel/raw/master/travel-page/detail.png"/>
 <img width="281.25" height="500.25" src="https://github.com/JoyChen626/vue-travel/raw/master/travel-page/city.png"/>
 <img width="281.25" height="500.25" src="https://github.com/JoyChen626/vue-travel/raw/master/travel-page/album.png"/>
+
+
+
+
+
+
