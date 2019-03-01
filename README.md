@@ -1,21 +1,5 @@
 # travel
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+<img width="281.25" height="500.25" src="https://github.com/JoyChen626/vue-travel/raw/master/travel-page/home.png"/>
+<img width="281.25" height="500.25" src="https://github.com/JoyChen626/vue-travel/raw/master/travel-page/detail.png"/>
+<img width="281.25" height="500.25" src="https://github.com/JoyChen626/vue-travel/raw/master/travel-page/city.png"/>
+<img width="281.25" height="500.25" src="https://github.com/JoyChen626/vue-travel/raw/master/travel-page/album.png"/>
